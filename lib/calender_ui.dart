@@ -2,7 +2,7 @@ import 'package:booking_calendar/booking_calendar.dart';
 import 'package:flutter/material.dart';
 
 class CalenderUI extends StatefulWidget {
-  CalenderUI({Key? key}) : super(key: key);
+  const CalenderUI({Key? key}) : super(key: key);
 
   @override
   State<CalenderUI> createState() => _CalenderUIState();
